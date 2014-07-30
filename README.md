@@ -1,4 +1,4 @@
-# ngram-stream
+# ngram-stream [![Build Status](https://travis-ci.org/madbence/node-ngram-stream.svg)](https://travis-ci.org/madbence/node-ngram-stream)
 
 [ngram](http://en.wikipedia.org/wiki/N-gram) stream from strings.
 
