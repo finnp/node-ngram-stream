@@ -1,6 +1,6 @@
 # ngram-stream
 
-[ngram]() stream from strings.
+[ngram](http://en.wikipedia.org/wiki/N-gram) stream from strings.
 
 ## Install
 
