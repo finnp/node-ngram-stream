@@ -1,0 +1,32 @@
+{
+  "name": "ngram-stream",
+  "version": "1.0.0",
+  "description": "Object-stream to create ngram tokens from strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/node-ngram-stream"
+  },
+  "keywords": [
+    "stream",
+    "ngram",
+    "language"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-ngram-stream/issues"
+  },
+  "homepage": "https://github.com/madbence/node-ngram-stream",
+  "devDependencies": {
+    "concat-stream": "^1.4.6",
+    "mocha": "^1.21.3",
+    "should": "^4.0.4"
+  },
+  "dependencies": {
+    "ngram": "git://github.com/madbence/node-ngram"
+  }
+}
